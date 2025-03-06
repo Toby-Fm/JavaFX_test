@@ -1,0 +1,14 @@
+/* Hintergrundfarbe für VBox */
+VBox {
+    -fx-background-color: #1e1e1e;
+}
+
+/*.btn-primary {
+    -fx-background-color: #007bff;
+    -fx-text-fill: white;
+    -fx-padding: 10px 20px;
+}*/
+
+#welcomeText {
+    -fx-text-fill: red;
+}
