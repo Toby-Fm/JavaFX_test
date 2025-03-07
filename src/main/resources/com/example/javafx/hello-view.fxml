@@ -17,7 +17,7 @@
 
         <!-- Text-Box -->
         <VBox spacing="10">
-            <Label text="About Me" styleClass="h2 text-primary"/>
+            <Label text="About Me" styleClass="text-primary"/>
             <Label text="Hello! Ich bin Toby" styleClass="text-muted"/>
         </VBox>
     </HBox>
